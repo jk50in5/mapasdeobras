@@ -1,0 +1,8 @@
+streamlit==1.38.0
+streamlit-authenticator==0.2.3
+streamlit-folium==0.23.0
+folium==0.17.0
+pandas==2.2.2
+geopy==2.4.1
+gspread==6.1.2
+google-auth==2.34.0
